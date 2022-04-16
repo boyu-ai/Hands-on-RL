@@ -4,7 +4,7 @@
 
 * 由于GitHub上渲染notebook效果有限，我们推荐读者前往[Hands-on RL主页](https://hrl.boyuai.com/)进行浏览，我们在此提供了纯代码版本的notebook，供大家下载运行。
 
-* 欢迎在[京东]((https://item.jd.com/13129509.html))和[当当网](http://product.dangdang.com/29391150.html)购买《动手学强化学习》。
+* 欢迎在[京东](https://item.jd.com/13129509.html)和[当当网](http://product.dangdang.com/29391150.html)购买《动手学强化学习》。
 
 * 如果你发现了本书的任何问题，或者有任何改善建议的，欢迎填写[问卷](https://wj.qq.com/s2/8824793/9405/)反馈给我们！
 
