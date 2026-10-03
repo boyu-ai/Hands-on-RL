@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git show *)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 *)",
+      "Bash(bash *)",
+      "Bash(git ls-tree *)",
+      "Bash(grep -E \"^\\\\\\\\\")",
+      "Bash(awk '/^commit/ { commit=$2 } /class BernoulliBandit/ && !found { found=1; print \"Found in:\", commit }')",
+      "Bash(git diff-tree *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)"
+    ]
+  }
+}
